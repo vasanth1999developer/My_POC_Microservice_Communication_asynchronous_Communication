@@ -1,0 +1,13 @@
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\controller\QuotesController.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\service\QuotesService.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\service\QuotesServiceImpl.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\repository\QuotesDao.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\entity\QuotesEntity.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\been\QuotesBO.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\config\RabbitMQConfig.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\repository\QuotesRepository.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\been\ProductListBo.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\entity\ProductListVo.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\repository\QuotesDaoImpl.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\config\MessageSender.java
+F:\MyBizrepo2.0(old)\salesorder-service\salesorder-service\src\main\java\com\microservice\salesorder\SalesorderServiceApplication.java

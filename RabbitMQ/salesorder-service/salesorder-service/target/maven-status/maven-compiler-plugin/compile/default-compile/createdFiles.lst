@@ -1,0 +1,13 @@
+com\microservice\salesorder\SalesorderServiceApplication.class
+com\microservice\salesorder\service\QuotesService.class
+com\microservice\salesorder\service\QuotesServiceImpl.class
+com\microservice\salesorder\been\ProductListBo.class
+com\microservice\salesorder\config\MessageSender.class
+com\microservice\salesorder\config\RabbitMQConfig.class
+com\microservice\salesorder\entity\QuotesEntity.class
+com\microservice\salesorder\repository\QuotesDaoImpl.class
+com\microservice\salesorder\entity\ProductListVo.class
+com\microservice\salesorder\repository\QuotesDao.class
+com\microservice\salesorder\been\QuotesBO.class
+com\microservice\salesorder\controller\QuotesController.class
+com\microservice\salesorder\repository\QuotesRepository.class

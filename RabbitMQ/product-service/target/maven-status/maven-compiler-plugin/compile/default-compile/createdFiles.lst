@@ -1,0 +1,8 @@
+com\softtwig\product\vo\ProductVo.class
+com\softtwig\product\vo\BaseEntity.class
+com\softtwig\product\config\RabbitMQConfig.class
+com\softtwig\product\ProductApplication.class
+com\softtwig\product\service\ProductService.class
+com\softtwig\product\service\ProductServiceImpl.class
+com\softtwig\product\controller\ProductController.class
+com\softtwig\product\controller\ProductController$1.class
